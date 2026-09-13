@@ -1,5 +1,1 @@
-## Hi there 👋
-
-<!--
-Hello! My name is Maggio, I am conducting my PhD in Forestry at North Carolina State University with Dr. Meredith Martin. We are collecting all that there is to know about urban forests in the Southeastern U.S., from number of trees, represented species, to tree health and the ecosystem services they provide. I am also working on a systematic literature review to gauge technical and socio-economic drivers of afforestation success across the Global South, in collaboration with an interdisciplinary NC State, Duke, and Yale research group.
--->
+## Hello! My name is Maggio, I am conducting my PhD in Forestry at North Carolina State University with Dr. Meredith Martin. We are collecting all that there is to know about urban forests in the Southeastern U.S., from number of trees, represented species, to tree health and the ecosystem services they provide. I am also working on a systematic literature review to gauge technical and socio-economic drivers of afforestation success across the Global South, in collaboration with an interdisciplinary NC State, Duke, and Yale research group.
